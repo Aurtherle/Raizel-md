@@ -13,7 +13,7 @@ global.gurl = 'https://chat.whatsapp.com/EZe0MlgU0xo8GXtkCpqS0M' // add your use
 global.sudo =  '212684151146' || process.env.SUDO  
 global.devs = '212684151146';
 global.website = 'https://chat.whatsapp.com/EZe0MlgU0xo8GXtkCpqS0M' //wa.me/+212684151146
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/7ad52cce0501e66f7392f.jpg'
 module.exports = {
   botname: process.env.BOT_NAME || '𝐒𝐞𝐜𝐤𝐭𝐨𝐫 𝐁𝐨𝐭',
   ownername: 'SuhailTechInfo' || process.env.OWNER_NAME,
